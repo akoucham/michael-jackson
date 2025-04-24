@@ -14,13 +14,13 @@
       
       "BannerNetwork"      : "admob",
       "InterstitialNetwork": "admob",
-      "NativeNetwork"      : "admob",
+      "NativeNetwork"      : "facebook",
       
       "OpenAdNetwork"      : "admob",
       
       "AdInterval"         : 1,
       
-      "NativeAdRow"        : 0,
+      "NativeAdRow"        : 5,
 
       "AdPlacement": {
         
@@ -31,7 +31,7 @@
         
         "FacebookBanner"      : "",
         "FacebookInterstitial": "",
-        "FacebookNative"      : ""
+        "FacebookNative"      : "1338215540800539_1338217684133658"
 
       }
     },
