@@ -14,7 +14,7 @@
       
       "BannerNetwork"      : "admob",
       "InterstitialNetwork": "admob",
-      "NativeNetwork"      : "facebook",
+      "NativeNetwork"      : "admob",
       
       "OpenAdNetwork"      : "admob",
       
@@ -26,7 +26,7 @@
         
         "AdMobBanner"         : "ca-app-pub-3147524971917133/9132318513",
         "AdMobInterstitial"   : "ca-app-pub-3147524971917133/7819236840",
-        "AdMobNative"         : "",
+        "AdMobNative"         : "ca-app-pub-3147524971917133/4588415990",
         "AdMobOpenAd"         : "ca-app-pub-3147524971917133/6341901002",
         
         "FacebookBanner"      : "",
